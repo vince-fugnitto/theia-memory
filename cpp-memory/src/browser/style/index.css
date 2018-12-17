@@ -1,0 +1,11 @@
+#memory-view-container {
+    display: flex;
+    padding: 10px;
+}
+
+#memory-view-container .memory-view-header h1 {
+    color: var(--theia-ui-font-color1);
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
